@@ -1,0 +1,37 @@
+
+.container {
+    width: 1060px;
+    margin: 0 auto;
+ }
+
+ .art1-left {
+    width: 600px;
+ }
+
+ .art1-mid {
+    width: 200px;
+ }
+
+ .art1-right {
+    width: 200px;
+ }
+
+ .art2 {
+     width: 190px;
+ }
+
+ .art3-tot {
+    width: 930px;
+}
+
+ .art3-dt {
+     width: 200px;
+ } 
+
+ .art3-cnt {
+    width: 500px;
+} 
+
+.art3-pic {
+    width: 200px;
+} 
